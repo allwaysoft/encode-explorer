@@ -1,4 +1,4 @@
-极间PHP 文件管理器
+极简PHP 文件管理器
 IE6可以正常上传文件
 
 Encode Explorer
